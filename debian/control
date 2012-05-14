@@ -1,0 +1,15 @@
+Source: python-carbon
+Section: unknown
+Priority: extra
+Maintainer: Rodrigo Sampaio Vaz <rodrigo.vaz@gmail.com>
+Build-Depends: debhelper
+Standards-Version: 3.8.4
+Homepage: http://graphite.wikidot.com
+#Vcs-Git: git://git.debian.org/collab-maint/python-carbon.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/python-carbon.git;a=summary
+
+Package: python-carbon
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, python-setuptools
+Description: graphite rrd-like databases
+ <insert long description, indented with spaces>
