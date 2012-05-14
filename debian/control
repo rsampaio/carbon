@@ -1,5 +1,5 @@
 Source: python-carbon
-Section: unknown
+Section: python
 Priority: extra
 Maintainer: Rodrigo Sampaio Vaz <rodrigo.vaz@gmail.com>
 Build-Depends: debhelper
